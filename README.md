@@ -31,7 +31,7 @@
 <a href="mailto:prakash.25gupta@gmail.com">
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3%"/> </a>                                 
   
- <br>             
+ <br>   <br>          
                
  
 ![Prakash's github stats](https://github-readme-stats.vercel.app/api?username=LunaticPrakash&show_icons=true&hide=[%22issues%22])
