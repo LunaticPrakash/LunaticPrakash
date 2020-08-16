@@ -34,7 +34,6 @@
   
 
 
-![image title](https://rushter.com/counter.svg)
 
 
 ![Prakash's github stats](https://github-readme-stats.vercel.app/api?username=LunaticPrakash&show_icons=true&hide=[%22issues%22])
