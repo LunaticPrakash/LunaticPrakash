@@ -10,10 +10,7 @@
 - :neutral_face: I have a **confused** relationship with **Hacking**
 - 💬 I am happy to help. Ask me anything about anything.
 - 😄 Pronouns: I have a name, so use the Noun man.
-- :bulb: I don't why but i'm doing **Competitve Codings** sometime.
-
-
-
+- :bulb: I don't why but i'm doing **Competitve Codings** sometime. <br> <br> <br>
 
 ## Reach me out at :-
  <a href="https://twitter.com/Lunatic_Prakash">
@@ -32,15 +29,10 @@
   <img align="left" alt="Prakash's Facebook" width="28px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
 </a>
 <a href="mailto:prakash.25gupta@gmail.com">
-  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3%"/> </a>
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3%"/> </a>                                 
   
-  
-  
-  
-  
-
-
-
-
+ <br>             
+               
+ 
 ![Prakash's github stats](https://github-readme-stats.vercel.app/api?username=LunaticPrakash&show_icons=true&hide=[%22issues%22])
  
