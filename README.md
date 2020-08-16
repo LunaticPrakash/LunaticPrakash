@@ -23,7 +23,7 @@
   <img align="left" alt="Prakash's Linkdein" width="28px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a href="https://www.reddit.com/user/Lunatic_Prakash">
-  <img align="left" alt="Prakash's Reddit" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/reddit.svg" />
+  <img align="left" alt="Prakash's Reddit" width="28px" src="https://www.iconfinder.com/icons/3225187/download/png/128" />
 </a>
 <a href="https://www.instagram.com/its___prakash/">
   <img align="left" alt="Prakash's Instagram" width="28px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%" />
@@ -32,7 +32,7 @@
   <img align="left" alt="Prakash's Facebook" width="28px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
 </a>
 <a href="mailto:prakash.25gupta@gmail.com">
-  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3%"/> </a>                                 
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.3%"/> </a>                                 
   
  <br>   <br>          
                
