@@ -6,7 +6,7 @@
 
 ## Who Am I?
    
-- :school: I'm [Prakash Gupta](https://github.com/LunaticPrakash)  :india: currently a 3rd Year CSE student at <a href="https://srmcem.ac.in/">@SRMCEM</a>
+- :school: I'm [Prakash Gupta](https://github.com/LunaticPrakash)  :india: currently a 3rd Year CSE student at @SRMCEM,Lucknow
 - 🎯I’m currently working on  **Data Science and its Applications via Machine Learning**
 - 🎧 Mask is temporary, Music is permanent.
 - 🔭 Astronomy is the second favourite.Now stop thinking about the first one, cause i don't know either 🤷‍♂️.
