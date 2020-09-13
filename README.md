@@ -16,23 +16,23 @@
 - :bulb: I don't know why but i'm doing **Competitve Codings** sometime. <br> <br> <br>
 
 ## Reach me out at :-
- <a href="https://twitter.com/Lunatic_Prakash">
+ <a target = "_blank" href="https://twitter.com/Lunatic_Prakash">
   <img align="left" alt="Prakash's Twitter" width="28x" src="https://img.icons8.com/color/48/000000/twitter.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/prakashgupta-/">
+<a target = "_blank" href="https://www.linkedin.com/in/prakashgupta-/">
   <img align="left" alt="Prakash's Linkdein" width="28px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 
-<a href="https://www.instagram.com/its___prakash/">
+<a target = "_blank" href="https://www.instagram.com/its___prakash/">
   <img align="left" alt="Prakash's Instagram" width="28px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100004385356275">
+<a target = "_blank" href="https://www.facebook.com/profile.php?id=100004385356275">
   <img align="left" alt="Prakash's Facebook" width="28px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
 </a>
 
-<a href="mailto:prakash.25gupta@gmail.com">
+<a target = "_blank" href="mailto:prakash.25gupta@gmail.com">
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.3%"/> </a>                                 
   
  <br>   <br>          
