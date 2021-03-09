@@ -7,12 +7,12 @@
 ## Who Am I?
    
 - :school: I'm [Prakash Gupta](https://github.com/LunaticPrakash)  :india: currently a 3rd Year CSE student at @SRMCEM,Lucknow
-- 🎯I’m currently working on  **Data Science and its Applications via Machine Learning**
+- 🎯I’m currently working on  **Machine Learning & AI.**
 - 🎧 Mask is temporary, Music is permanent.
 - 🔭 Astronomy is the second favourite. Thinking about the first one? I don't know either 🤷‍♂️.
 - :neutral_face: I have a **confused** relationship with **Hacking**
 - 💬 I am happy to help. Ask me anything about anything.
-- 😄 Pronouns: I have a name, so use the Noun xD.
+- 😄 Pronouns: Use He or you can call me Lunatic xD.
 - :bulb: I don't know why but i'm doing **Competitve Codings** sometime. <br> <br> <br>
 
 ## Reach me out at :-
