@@ -36,10 +36,10 @@
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.3%"/> </a>                                 
   
  <br>   <br>          
-               
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunaticPrakash)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lunaticprakash&" alt="lunaticprakash" >
- <br>   <br>          
-![Prakash's github stats](https://github-readme-stats.vercel.app/api?username=LunaticPrakash&show_icons=true&hide=[%22issues%22])
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lunaticprakash&" width = 80% alt="lunaticprakash" >
+ <br> 
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunaticPrakash)](https://github.com/anuraghazra/github-readme-stats)
+        
+![Prakash's github stats](https://github-readme-stats.vercel.app/api?username=LunaticPrakash&show_icons=true&hide=[%22issues%22])
