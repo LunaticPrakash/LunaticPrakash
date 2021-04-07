@@ -39,5 +39,7 @@
                
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunaticPrakash)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lunaticprakash&" alt="lunaticprakash" >
+<br>
 ![Prakash's github stats](https://github-readme-stats.vercel.app/api?username=LunaticPrakash&show_icons=true&hide=[%22issues%22])
  
