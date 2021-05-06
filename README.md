@@ -1,7 +1,7 @@
 ![Profile Views](https://rushter.com/counter.svg)
 <br>
 
-<img alt = "Intro Gif" src="https://media.giphy.com/media/dWlfjTSCVVi7ufQX15/giphy.gif" width="800" height="550" />
+<!--<img alt = "Intro Gif" src="https://media.giphy.com/media/dWlfjTSCVVi7ufQX15/giphy.gif" width="800" height="550" />-->
 
 
 ## Who Am I?
