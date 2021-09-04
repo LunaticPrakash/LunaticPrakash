@@ -6,10 +6,10 @@
 
 ## Who Am I?
    
-- :school: I'm [Prakash Gupta](https://github.com/LunaticPrakash)  :india: currently a 3rd Year CSE student at @SRMCEM,Lucknow
+- :school: I'm [Prakash Gupta](https://github.com/LunaticPrakash)  :india: currently a Final Year CSE student at @SRMCEM,Lucknow
 - 🎯I’m currently working on  **Web Development** and also improving **Data Structure and Algorithms understanding**
 - 🎧 Mask is temporary, Music is permanent.
-- 🔭 Astronomy is my second favourite. Thinking about the first one? I don't know either 🤷‍♂️.
+- 🔭 Astronomy is my second favourite.
 - :neutral_face: I have a **confused** relationship with **Hacking**
 - 💬 I am happy to help. Ask me anything, about anything.
 - :bulb: I don't know why but i'm doing **Competitive Codings** sometime. <br> <br> <br>
@@ -25,10 +25,6 @@
 
 <a href="https://www.instagram.com/its___prakash/">
   <img align="left" alt="Prakash's Instagram" width="28px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%" />
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100004385356275">
-  <img align="left" alt="Prakash's Facebook" width="28px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
 </a>
 
 <a href="mailto:prakash.25gupta@gmail.com">
