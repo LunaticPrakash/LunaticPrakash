@@ -7,7 +7,7 @@
 ## Who Am I?
    
 - :school: I'm [Prakash Gupta](https://github.com/LunaticPrakash)  :india: currently a Final Year CSE student at @SRMCEM,Lucknow
-- 🎯I’m currently working on  **Web Development** and also improving **Data Structure and Algorithms understanding**
+- 🎯I’m currently working on **Android and Web Development**
 - 🎧 Mask is temporary, Music is permanent.
 - 🔭 Astronomy is my second favourite.
 - :neutral_face: I have a **confused** relationship with **Hacking**
