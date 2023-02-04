@@ -11,7 +11,7 @@
 - 🔭 Astronomy is my second favourite.
 - :neutral_face: I have a **confused** relationship with **Hacking**
 - 💬 I am happy to help. Ask me anything, about anything.
-- :bulb: I don't know why but i'm doing **Competitive Codings** sometime. <br> <br> <br>
+- :bulb: I don't know why but i'm doing **Competitive Coding** sometime. <br> <br> <br>
 
 ## Reach me out at :-
  <a href="https://twitter.com/Lunatic_Prakash">
