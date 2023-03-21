@@ -12,24 +12,7 @@
 - :neutral_face: I have a **confused** relationship with **Hacking**
 - 💬 I am happy to help. Ask me anything, about anything.
 - :bulb: I don't know why but i'm doing **Competitive Coding** sometime. <br> <br> <br>
-
-## Reach me out at :-
- <a href="https://twitter.com/Lunatic_Prakash">
-  <img align="left" alt="Prakash's Twitter" width="28x" src="https://img.icons8.com/color/48/000000/twitter.png" />
-</a>
-
-<a  href="https://www.linkedin.com/in/prakashgupta-/">
-  <img align="left" alt="Prakash's Linkdein" width="28px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
-</a>
-
-<a href="https://www.instagram.com/its___prakash/">
-  <img align="left" alt="Prakash's Instagram" width="28px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%" />
-</a>
-
-<a href="mailto:prakash.25gupta@gmail.com">
-  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.3%"/> </a>                                 
-  
- <br>   <br>          
+         
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lunaticprakash&" width = 80% alt="lunaticprakash">
  <br> 
