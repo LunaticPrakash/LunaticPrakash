@@ -6,7 +6,7 @@
 
 ## Who Am I?
    
-- :school: I'm [Prakash Gupta](https://github.com/LunaticPrakash), a Computer Science Engineer (2022).
+- :school: I'm [Prakash Gupta](https://github.com/LunaticPrakash), a Software Engineer at Cognizant.
 - 🎯I’m currently working on **Full Stack Development using Java(Spring-Boot), ReactJS, and SQL technologies**
 - 🔭 Astronomy is my second favourite.
 - :neutral_face: I have a **confused** relationship with **Hacking**
