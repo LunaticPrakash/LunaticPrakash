@@ -7,11 +7,9 @@
 ## Who Am I?
    
 - :school: I'm [Prakash Gupta](https://github.com/LunaticPrakash), a Software Engineer at Cognizant.
-- 🎯I’m currently working on **Full Stack Development using Java(Spring-Boot), ReactJS, and SQL technologies**
-- 🔭 Astronomy is my second favourite.
+- 🎯I’m currently working on **Full Stack Development with Python, ReactJS, Spring Boot and SQL**.
 - :neutral_face: I have a **confused** relationship with **Hacking**
-- 💬 I am happy to help. Ask me anything, about anything.
-- :bulb: I don't know why but i'm doing **Competitive Coding** sometime. <br> <br> <br>
+<br> <br> <br>
          
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lunaticprakash&" width = 80% alt="lunaticprakash">
