@@ -8,7 +8,6 @@
    
 - :school: I'm [Prakash Gupta](https://github.com/LunaticPrakash), a Software Engineer at Cognizant.
 - 🎯I’m currently working on **Full Stack Development with Python, ReactJS, Spring Boot and SQL**.
-- :neutral_face: I have a **confused** relationship with **Hacking**
 <br> <br> <br>
          
 
