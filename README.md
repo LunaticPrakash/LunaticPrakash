@@ -6,8 +6,8 @@
 
 ## Who Am I?
    
-- :school: I'm [Prakash Gupta](https://github.com/LunaticPrakash), a Software Engineer at Cognizant.
-- 🎯I’m currently working on **Full Stack Development with Python, ReactJS, Spring Boot and SQL**.
+- :school: I'm [Prakash Gupta](https://github.com/LunaticPrakash), an Associate Python Developer at Cognizant.
+- 🎯I’m currently working on **Full Stack Development with Python, ReactJS, Azure Cloud**.
 <br> <br> <br>
          
 
